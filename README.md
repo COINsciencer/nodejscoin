@@ -13,3 +13,6 @@ Windows7系统点击下方链接直接下载。
 
 下载完成后，点击打开下载的文件，根据向导一步一步即可完成安装Node.js
 
+更全教程
+https://docs.google.com/document/d/1DUDigyDie2PKrXwBT0qxFXch-Idutxrc1n3NcDoJAyQ/edit?usp=sharing
+
